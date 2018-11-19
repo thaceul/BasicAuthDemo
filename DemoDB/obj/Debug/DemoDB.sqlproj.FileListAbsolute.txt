@@ -1,0 +1,5 @@
+C:\Users\STUDENT\source\repos\BasicAuthDemo\DemoDB\bin\Debug\DemoDB.dacpac
+C:\Users\STUDENT\source\repos\BasicAuthDemo\DemoDB\bin\Debug\DemoDB.dll
+C:\Users\STUDENT\source\repos\BasicAuthDemo\DemoDB\bin\Debug\DemoDB.pdb
+C:\Users\STUDENT\source\repos\BasicAuthDemo\DemoDB\obj\Debug\DemoDB.dll
+C:\Users\STUDENT\source\repos\BasicAuthDemo\DemoDB\obj\Debug\DemoDB.pdb

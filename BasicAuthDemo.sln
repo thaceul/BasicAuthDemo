@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DemoDB", "DemoDB\DemoDB.sqlproj", "{745019E0-CAA0-43DC-956C-267E8AC097DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthAPI", "BasicAuthAPI\BasicAuthAPI.csproj", "{68302FFC-E986-4C51-869C-1700EB7B501F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745019E0-CAA0-43DC-956C-267E8AC097DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745019E0-CAA0-43DC-956C-267E8AC097DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745019E0-CAA0-43DC-956C-267E8AC097DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{745019E0-CAA0-43DC-956C-267E8AC097DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745019E0-CAA0-43DC-956C-267E8AC097DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745019E0-CAA0-43DC-956C-267E8AC097DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{68302FFC-E986-4C51-869C-1700EB7B501F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68302FFC-E986-4C51-869C-1700EB7B501F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68302FFC-E986-4C51-869C-1700EB7B501F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68302FFC-E986-4C51-869C-1700EB7B501F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9060AE45-67CE-406C-8F89-B686B80BA178}
+	EndGlobalSection
+EndGlobal
